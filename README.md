@@ -1,6 +1,6 @@
 # ToolbReleases
 
-[download-image]: https://img.shields.io/badge/-download-fb7299.svg
+[download-image]: https://img.shields.io/github/downloads/imgradeone/ToolbReleases/total.svg?style=flat-square
 [download-url]: https://github.com/imgradeone/ToolbReleases/releases
 
 仅用于存放 Toolb Releases 的 repo
