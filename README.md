@@ -8,3 +8,7 @@
 仅用于存放 Toolb Releases 的 repo
 
 其实源代码什么的，没有qwq
+
+# 关于协议
+
+协议仅针对日后在本 repo 公开的源码，不针对 Toolb 本体。
