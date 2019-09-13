@@ -7,7 +7,7 @@
 
 仅用于存放 Toolb Releases 的 repo，目前开始搭建 wiki 页面
 
-其实源代码什么的，没有qwq
+其实源代码什么的，没有 XD
 
 # 关于协议
 
